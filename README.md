@@ -26,6 +26,5 @@ OOPS means Object Oriented Programming system
 
 Variable – A variable in Java is like a container that stores data. It has a name a type, and a value. For example, int age = 22; creates a variable named `age` that stores the number 22. Java is a statically-typed language, so you must declare the type (like int, String, or boolean) before using the variable. Variables help store and use data in a program as it runs.
 
-
-
+Method – A method in Java is a block of code that performs a specific task. It's like a function — you define it once and can use it many times. Methods help organize code, make it reusable, and improve readability. For example, a method add(int a, int b) can take two numbers and return their sum. You call methods using objects or class names, depending on whether they're instance or static methods.
 

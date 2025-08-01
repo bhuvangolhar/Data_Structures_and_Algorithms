@@ -23,3 +23,9 @@ These are the 5 main concepts of OOPS :
 
 OOPS means Object Oriented Programming system
 
+
+Variable – A variable in Java is like a container that stores data. It has a name a type, and a value. For example, int age = 22; creates a variable named `age` that stores the number 22. Java is a statically-typed language, so you must declare the type (like int, String, or boolean) before using the variable. Variables help store and use data in a program as it runs.
+
+
+
+

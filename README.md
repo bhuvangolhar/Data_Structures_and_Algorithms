@@ -12,7 +12,7 @@ Polymorphism - Polymorphism in Java means one thing behaving in different ways. 
 
 Abstraction - Abstraction in Java means hiding unnecessary details and showing only the important parts of an object. It helps you focus on what an object does instead of how it does it. This is done using abstract classes or interfaces. For example, when you drive a car, you just use the steering and pedals—you don’t need to know how the engine works inside. Similarly, abstraction lets programmers use complex systems easily without dealing with all the inner code.
 
-These are the 5 pillars of OOPS :
+These are the 5 main concepts of OOPS :
 
 1. Object –  A real-world entity
 2. Class – Blueprint of collection of things 
@@ -20,4 +20,6 @@ These are the 5 pillars of OOPS :
 4. Encapsulation – Data protection and control
 5. Polymorphism – One thing, many forms
 6. Abstraction – Hiding complex details
+
+OOPS means Object Oriented Programming system
 

@@ -28,3 +28,6 @@ Variable – A variable in Java is like a container that stores data. It has a n
 
 Method – A method in Java is a block of code that performs a specific task. It's like a function — you define it once and can use it many times. Methods help organize code, make it reusable, and improve readability. For example, a method add(int a, int b) can take two numbers and return their sum. You call methods using objects or class names, depending on whether they're instance or static methods.
 
+Array – An array in Java is a container that holds a fixed number of values of the same data type. For example, you can create an array of integers like int[] numbers = {1, 2, 3, 4};. Each element in the array is accessed using an index, starting from 0. Arrays are useful for storing and working with multiple values together, but their size is fixed once created.
+
+String –  A String in Java is a sequence of characters used to store and work with text. For example, "Hello" is a String. Java treats String as a class, not a primitive type, and it offers many built-in methods like length(), toUpperCase(), and substring() to manipulate text easily. Strings are immutable, which means once created, their value cannot be changed — any changes create a new String.

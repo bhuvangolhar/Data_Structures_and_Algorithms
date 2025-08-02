@@ -37,14 +37,14 @@ File Handling in Java –
 File handling allows Java programs to create, read, write, update, and delete files stored on the computer.
 
 
- Main Purposes:
+ Main Purposes-
 
 * Store data permanently (outside of RAM)
 * Save program output to a file
 * Read input from external files
 
 
- Common Classes:
+ Common Classes-
 
  Class               Purpose                                   
 | ---------------- | ----------------------------------------- |
@@ -55,7 +55,7 @@ File handling allows Java programs to create, read, write, update, and delete fi
 | `BufferedReader` | For reading large files efficiently       |
 
 
- Common Operations:
+ Common Operations-
 
   Create a file
   Write to a file
@@ -63,12 +63,12 @@ File handling allows Java programs to create, read, write, update, and delete fi
   Read data
   Delete a file
 
- Exceptions to Handle:
+ Exceptions to Handle -
 
 `IOException` → When reading/writing fails
 `FileNotFoundException` → When file does not exist
 
- Use Cases:
+ Use Cases-
 
  Saving user data or logs
  Loading configuration or input

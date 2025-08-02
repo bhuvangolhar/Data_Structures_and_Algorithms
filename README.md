@@ -32,15 +32,10 @@ Array – An array in Java is a container that holds a fixed number of values of
 
 String –  A String in Java is a sequence of characters used to store and work with text. For example, "Hello" is a String. Java treats String as a class, not a primitive type, and it offers many built-in methods like length(), toUpperCase(), and substring() to manipulate text easily. Strings are immutable, which means once created, their value cannot be changed — any changes create a new String.
 
-Sure, Bhuwan! Here's a **short and clear summary of file handling in Java** (no code):
+File Handling in Java –
 
----
+File handling allows Java programs to create, read, write, update, and delete files stored on the computer.
 
-## ✅ File Handling in Java – Summary
-
-**File handling allows Java programs to **create, read, write, update, and delete files** stored on the computer.
-
----
 
  Main Purposes:
 
@@ -48,11 +43,10 @@ Sure, Bhuwan! Here's a **short and clear summary of file handling in Java** (no 
 * Save program output to a file
 * Read input from external files
 
----
 
  Common Classes:
 
-| Class            | Purpose                                   |
+ Class               Purpose                                   
 | ---------------- | ----------------------------------------- |
 | `File`           | For creating, checking, or deleting files |
 | `FileWriter`     | For writing data to a file                |
@@ -71,12 +65,12 @@ Sure, Bhuwan! Here's a **short and clear summary of file handling in Java** (no 
 
  Exceptions to Handle:
 
-* `IOException` → When reading/writing fails
-* `FileNotFoundException` → When file does not exist
+`IOException` → When reading/writing fails
+`FileNotFoundException` → When file does not exist
 
  Use Cases:
 
-* Saving user data or logs
-* Loading configuration or input
-* Storing output of a program
+ Saving user data or logs
+ Loading configuration or input
+ Storing output of a program
 

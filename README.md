@@ -31,3 +31,52 @@ Method – A method in Java is a block of code that performs a specific task. It
 Array – An array in Java is a container that holds a fixed number of values of the same data type. For example, you can create an array of integers like int[] numbers = {1, 2, 3, 4};. Each element in the array is accessed using an index, starting from 0. Arrays are useful for storing and working with multiple values together, but their size is fixed once created.
 
 String –  A String in Java is a sequence of characters used to store and work with text. For example, "Hello" is a String. Java treats String as a class, not a primitive type, and it offers many built-in methods like length(), toUpperCase(), and substring() to manipulate text easily. Strings are immutable, which means once created, their value cannot be changed — any changes create a new String.
+
+Sure, Bhuwan! Here's a **short and clear summary of file handling in Java** (no code):
+
+---
+
+## ✅ File Handling in Java – Summary
+
+**File handling allows Java programs to **create, read, write, update, and delete files** stored on the computer.
+
+---
+
+ Main Purposes:
+
+* Store data permanently (outside of RAM)
+* Save program output to a file
+* Read input from external files
+
+---
+
+ Common Classes:
+
+| Class            | Purpose                                   |
+| ---------------- | ----------------------------------------- |
+| `File`           | For creating, checking, or deleting files |
+| `FileWriter`     | For writing data to a file                |
+| `FileReader`     | For reading data from a file              |
+| `Scanner`        | For reading files line-by-line easily     |
+| `BufferedReader` | For reading large files efficiently       |
+
+
+ Common Operations:
+
+  Create a file
+  Write to a file
+  Append data
+  Read data
+  Delete a file
+
+ Exceptions to Handle:
+
+* `IOException` → When reading/writing fails
+* `FileNotFoundException` → When file does not exist
+
+ Use Cases:
+
+* Saving user data or logs
+* Loading configuration or input
+* Storing output of a program
+
